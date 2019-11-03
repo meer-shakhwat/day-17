@@ -1,0 +1,16 @@
+.tableOne {
+    width: 980px;
+}
+
+
+
+.divOne {
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    /*border: 1px solid green;*/
+    /*overflow-y:scroll;*/
+}
+.heading-One {
+    /*display: none;*/
+}
